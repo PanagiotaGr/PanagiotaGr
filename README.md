@@ -1,13 +1,14 @@
 # Panagiota Grosdouli
 
-Electrical & Computer Engineering student.
+Electrical & Computer Engineering student, Democritus University of Thrace.
+
 
 ---
 
 ## Selected Projects
 
 - **[Uncertainty-Aware Dynamic Navigation](https://github.com/PanagiotaGr/DynNav-Dynamic-Navigation-Rerouting-in-Unknown-Environments)**  
-  Research codebase for autonomous navigation and replanning in unknown environments.  
+ Research codebase for autonomous navigation and online replanning in unknown environments.
   Emphasis on explicit modeling of uncertainty and risk, learning-augmented planning, and reproducible experimental evaluation (ROS 2).
 
 - **[Risk-Aware Return-to-Home Policy for UAVs](https://github.com/PanagiotaGr/Risk-Aware-Return-to-Home-Policy-for-UAVs-under-Battery-Uncertainty-and-Wind-Disturbances)**  
