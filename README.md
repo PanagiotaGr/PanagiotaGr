@@ -7,7 +7,7 @@ Electrical & Computer Engineering student, Democritus University of Thrace.
 
 ## Selected Projects
 
-- **[Uncertainty-Aware Dynamic Navigation](https://github.com/PanagiotaGr/DynNav-Dynamic-Navigation-Rerouting-in-Unknown-Environments)**  
+- **[Dynamic Navigation and Uncertainty-Aware Replanning in Unknown Environments](https://github.com/PanagiotaGr/DynNav-Dynamic-Navigation-Rerouting-in-Unknown-Environments)**  
  Research codebase for autonomous navigation and online replanning in unknown environments.
   Emphasis on explicit modeling of uncertainty and risk, learning-augmented planning, and reproducible experimental evaluation (ROS 2).
 
