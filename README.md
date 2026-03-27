@@ -34,13 +34,6 @@
 
 ---
 
-## GitHub Stats & Skills
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=PanagiotaGr&show_icons=true&theme=radical&count_private=true" alt="Panagiota's Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PanagiotaGr&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-
 ###  Tech Stack
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![ROS2](https://img.shields.io/badge/ros2-%2322314E.svg?style=for-the-badge&logo=ros&logoColor=white)
