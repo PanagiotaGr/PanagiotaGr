@@ -27,23 +27,8 @@ Currently working on my diploma thesis on trajectory prediction of vulnerable ro
 - **[VRU Trajectory Prediction](https://github.com/PanagiotaGr/vrus-trajectory-prediction)**  
   Motion forecasting of vulnerable road users at smart intersections (Diploma Thesis).
 
----
-
-### ⚡ ML for Physical Systems
-- **[Wafer Fault Detection](https://github.com/PanagiotaGr/wafer-fault-detection-with-ml)**  
-  Machine learning pipeline for semiconductor defect classification under data constraints.
 
 ---
-
-### 🧠 Advanced AI & Systems
-- **[Neuromorphic Robotics (SNNs)](https://github.com/PanagiotaGr/neuromorphic-robot-snn)**  
-  Spiking neural networks for robust closed-loop robotic control.
-
-- **[Robotic Self-Diagnosis](https://github.com/PanagiotaGr/Robotic-Self-Diagnosis-via-Introspective-Signal-Modeling-in-ROS-2)**  
-  Introspective monitoring of internal system states (latency, jitter) in ROS2.
-
----
-
 ## 🧩 Tech Stack
 - **Languages:** Python, C++  
 - **Frameworks:** ROS2, PyTorch, Gazebo  
