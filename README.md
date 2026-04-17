@@ -17,16 +17,15 @@ Currently working on my diploma thesis on trajectory prediction of vulnerable ro
 
 ## 🚀 Selected Projects
 
-### 🤖 Robotics & Autonomous Systems
-- **[DynNav](https://github.com/PanagiotaGr/DynNav-Dynamic-Navigation-Rerouting-in-Unknown-Environments)**  
-  Risk-aware navigation and dynamic replanning in unknown environments using ROS2.
-
----
 
 ### 🚗 Autonomous Driving & Perception
 - **[VRU Trajectory Prediction](https://github.com/PanagiotaGr/vrus-trajectory-prediction)**  
   Motion forecasting of vulnerable road users at smart intersections (Diploma Thesis).
 
+
+### 🤖 Robotics & Autonomous Systems
+- **[DynNav](https://github.com/PanagiotaGr/DynNav-Dynamic-Navigation-Rerouting-in-Unknown-Environments)**  
+  Risk-aware navigation and dynamic replanning in unknown environments using ROS2.
 
 ---
 ## 🧩 Tech Stack
