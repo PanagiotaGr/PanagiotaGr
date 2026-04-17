@@ -1,7 +1,7 @@
 # Panagiota Grosdouli
 
 ### Electrical & Computer Engineering | Robotics & AI  
-*Focused on autonomous systems, machine learning, and intelligent decision-making.*
+*Focused on autonomous systems, machine learning, and intelligent decision-making under uncertainty.*
 
 Currently working on my diploma thesis on trajectory prediction of vulnerable road users for autonomous driving applications.
 
@@ -18,38 +18,36 @@ Currently working on my diploma thesis on trajectory prediction of vulnerable ro
 ## 🚀 Selected Projects
 
 ### 🤖 Robotics & Autonomous Systems
-- **DynNav** – Risk-aware navigation in dynamic environments (ROS2)  
-- **Confidence-Aware A\*** – Planning under uncertainty  
-- **Battery-Aware Planning** – Energy-aware mission planning  
-- **UAV Return-to-Home** – Risk-aware control under disturbances  
+- **[DynNav](https://github.com/PanagiotaGr/DynNav-Dynamic-Navigation-Rerouting-in-Unknown-Environments)**  
+  Risk-aware navigation and dynamic replanning in unknown environments using ROS2.
 
 ---
 
 ### 🚗 Autonomous Driving & Perception
-- **VRU Trajectory Prediction** – Motion forecasting at smart intersections (Diploma Thesis)  
-- **Semantic Segmentation** – Scene understanding using deep learning  
-- **Adversarial Scenarios** – RL-based edge case generation  
+- **[VRU Trajectory Prediction](https://github.com/PanagiotaGr/vrus-trajectory-prediction)**  
+  Motion forecasting of vulnerable road users at smart intersections (Diploma Thesis).
 
 ---
 
 ### ⚡ ML for Physical Systems
-- **Memristor Modeling** – Data-driven modeling of nonlinear devices  
-- **Antenna Optimization** – ML-based EM design acceleration  
-- **Wafer Fault Detection** – Defect classification with ML/DL  
+- **[Wafer Fault Detection](https://github.com/PanagiotaGr/wafer-fault-detection-with-ml)**  
+  Machine learning pipeline for semiconductor defect classification under data constraints.
 
 ---
 
 ### 🧠 Advanced AI & Systems
-- **Neuromorphic Robotics (SNNs)** – Spiking neural networks for control  
-- **Robotic Self-Diagnosis** – Introspective system monitoring  
+- **[Neuromorphic Robotics (SNNs)](https://github.com/PanagiotaGr/neuromorphic-robot-snn)**  
+  Spiking neural networks for robust closed-loop robotic control.
+
+- **[Robotic Self-Diagnosis](https://github.com/PanagiotaGr/Robotic-Self-Diagnosis-via-Introspective-Signal-Modeling-in-ROS-2)**  
+  Introspective monitoring of internal system states (latency, jitter) in ROS2.
 
 ---
 
 ## 🧩 Tech Stack
-- Python, C++  
-- ROS2, Gazebo  
-- PyTorch  
-- Linux  
+- **Languages:** Python, C++  
+- **Frameworks:** ROS2, PyTorch, Gazebo  
+- **Tools:** Linux, Git  
 
 ---
 
