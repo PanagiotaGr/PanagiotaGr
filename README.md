@@ -1,47 +1,61 @@
 # Panagiota Grosdouli
 
-### Electrical & Computer Engineering Student | Robotics & AI 
-*Passionate about building resilient autonomous systems, spiking neural networks, and introspective robotic architectures.*
+### Electrical & Computer Engineering | Robotics & AI  
+*Focused on autonomous systems, machine learning, and intelligent decision-making.*
+
+Currently working on my diploma thesis on trajectory prediction of vulnerable road users for autonomous driving applications.
 
 ---
 
-##  The "Sweet 16" Portfolio
-*A collection of 16+ high-impact research projects & engineering implementations.*
-
-###  Telecommunications & Applied ML
-* **[Antenna Optimization](https://github.com/PanagiotaGr/Antenna-Optimization-Using-Ensemble-Learning):** Accelerating EM design using Ensemble Learning (Stacking, RF, XGBoost).
-* **[Wafer Fault Detection](https://github.com/PanagiotaGr/wafer-fault-detection-with-ml):** ML/DL pipeline for semiconductor defect classification (Few-shot learning).
-
-### Autonomous Driving & Safety
-* **[RL Navigation](https://github.com/PanagiotaGr/Learning-based-Navigation-for-a-Mobile-Robot-in-Simulation-using-ROS2-and-Reinforcement-Learning):** Training a TurtleBot3 using PPO & ROS 2 Jazzy.
-* **[Adversarial Edge Cases](https://github.com/PanagiotaGr/Adversarial-Edge-Case-Scenario-Generation-Autonomous-Vehicles):** Stress-testing AVs in CARLA using RL.
-* **[Semantic Segmentation](https://github.com/PanagiotaGr/Semantic-Segmentation-for-Road-and-Dynamic-Object-Understanding-in-Autonomous-Driving):** CNNs vs Transformers for urban scene understanding.
-* **[VRU Prediction](https://github.com/PanagiotaGr/vrus-trajectory-prediction):** VRUS motion forecasting at smart intersections-[Diploma thesis].
-
-###  Neuromorphic & Hardware-AI
-* **[Neuromorphic SNN](https://github.com/PanagiotaGr/neuromorphic-robot-snn):** Spiking Neural Networks for closed-loop robotic control.
-* **[Memristor Modeling](https://github.com/PanagiotaGr/Modeling-Memristors-with-Machine-Learning):** Data-driven modeling of non-linear devices using LSTMs.
-
-###  Robotics, Planning & Control
-* **[Self-Diagnosis](https://github.com/PanagiotaGr/Robotic-Self-Diagnosis-via-Introspective-Signal-Modeling-in-ROS-2):** Internal health monitoring (CPU/Jitter) in ROS 2.
-* **[UAV Risk-Aware RTH](https://github.com/PanagiotaGr/Risk-Aware-Return-to-Home-Policy-for-UAVs-under-Battery-Uncertainty-and-Wind-Disturbances):** Battery & wind-aware return-to-home policies.
-* **[Confidence-Aware A*](https://github.com/PanagiotaGr/Confidence-Aware-A-Risk-Sensitive-Path-Planning-under-Uncertainty):** Risk-sensitive planning under spatial uncertainty.
-* **[6-DOF Robotic Arm](https://github.com/PanagiotaGr/robotic_arm_advanced):** Inverse Kinematics via Damped Least Squares (DLS).
-* **[Aircraft Landing](https://github.com/PanagiotaGr/Aircraft-Approach-Landing-):** 3-DOF flight dynamics and ILS-based guidance.
-* **[DynNav](https://github.com/PanagiotaGr/DynNav):** Risk-aware navigation in dynamic environments.
-* **[Battery-Aware Planning](https://github.com/PanagiotaGr/Battery-Aware-Mission-Planning-for-Autonomous-Delivery-Robots):** Stochastic energy modeling for delivery robots.
-* **[Ultrasonic Avoidance](https://github.com/PanagiotaGr/Ultrasonic-Sensor-Based-Obstacle-Avoidance-for-Mobile-Robots-in-ROS-2):** Real-time sensor fusion and navigation.
+## 🔬 Research Interests
+- Autonomous systems & robotics  
+- Machine learning for real-world applications  
+- Uncertainty-aware decision making  
+- Intelligent control & planning  
 
 ---
 
-###  Tech Stack
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![ROS2](https://img.shields.io/badge/ros2-%2322314E.svg?style=for-the-badge&logo=ros&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+## 🚀 Selected Projects
+
+### 🤖 Robotics & Autonomous Systems
+- **DynNav** – Risk-aware navigation in dynamic environments (ROS2)  
+- **Confidence-Aware A\*** – Planning under uncertainty  
+- **Battery-Aware Planning** – Energy-aware mission planning  
+- **UAV Return-to-Home** – Risk-aware control under disturbances  
 
 ---
-*“Nothing in life is to be feared, it is only to be understood. Now is the time to understand more, so that we may fear less.”*
+
+### 🚗 Autonomous Driving & Perception
+- **VRU Trajectory Prediction** – Motion forecasting at smart intersections (Diploma Thesis)  
+- **Semantic Segmentation** – Scene understanding using deep learning  
+- **Adversarial Scenarios** – RL-based edge case generation  
 
 ---
+
+### ⚡ ML for Physical Systems
+- **Memristor Modeling** – Data-driven modeling of nonlinear devices  
+- **Antenna Optimization** – ML-based EM design acceleration  
+- **Wafer Fault Detection** – Defect classification with ML/DL  
+
+---
+
+### 🧠 Advanced AI & Systems
+- **Neuromorphic Robotics (SNNs)** – Spiking neural networks for control  
+- **Robotic Self-Diagnosis** – Introspective system monitoring  
+
+---
+
+## 🧩 Tech Stack
+- Python, C++  
+- ROS2, Gazebo  
+- PyTorch  
+- Linux  
+
+---
+
+## 📍 Location
+Thessaloniki, Greece  
+
+---
+
+> *"The goal is to build systems that are not only intelligent, but reliable under uncertainty."*
