@@ -20,8 +20,6 @@ Currently working on my diploma thesis on trajectory prediction of vulnerable ro
 
 ### 🚗 Autonomous Driving & Perception
 - **[VRU Trajectory Prediction]  
-  Motion forecasting of vulnerable road users at smart intersections (Diploma Thesis).
-
 
 ### 🤖 Robotics & Autonomous Systems
 - **[DynNav](https://github.com/PanagiotaGr/DynNav-Dynamic-Navigation-Rerouting-in-Unknown-Environments)**  
