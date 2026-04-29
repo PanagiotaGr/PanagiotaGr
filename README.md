@@ -7,7 +7,7 @@ Currently working on my diploma thesis on trajectory prediction of vulnerable ro
 
 ---
 
-## 🔬 Research Interests
+##  Research Interests
 - Autonomous systems & robotics  
 - Machine learning for real-world applications  
 - Uncertainty-aware decision making  
@@ -15,18 +15,18 @@ Currently working on my diploma thesis on trajectory prediction of vulnerable ro
 
 ---
 
-## 🚀 Selected Projects
+## Selected Projects
 
 
-### 🚗 Autonomous Driving & Perception
+###  Autonomous Driving & Perception
 - **[VRU Trajectory Prediction]  
 
-### 🤖 Robotics & Autonomous Systems
+###  Robotics & Autonomous Systems
 - **[DynNav](https://github.com/PanagiotaGr/DynNav-Dynamic-Navigation-Rerouting-in-Unknown-Environments)**  
   Risk-aware navigation and dynamic replanning in unknown environments using ROS2.
 
 ---
-## 🧩 Tech Stack
+##  Tech Stack
 - **Languages:** Python, C++  
 - **Frameworks:** ROS2, PyTorch, Gazebo  
 - **Tools:** Linux, Git  
